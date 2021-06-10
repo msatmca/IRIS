@@ -19,7 +19,7 @@
   <properties>
     <skipRIMGeneration>true</skipRIMGeneration>
     <skipRIMGenerationSpringPRD>false</skipRIMGenerationSpringPRD>
-    <jetty.version>9.0.5.v20130815</jetty.version>
+    <jetty.version>9.4.41.v20210516</jetty.version>
   </properties>
 
   <build>
